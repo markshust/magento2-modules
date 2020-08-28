@@ -31,7 +31,7 @@ The generosity of free software on the web has been a large contributing factor 
 | [markshust/magento2-module-disabletwofactorauth](https://github.com/markshust/magento2-module-disabletwofactorauth) | **MarkShust_DisableTwoFactorAuth** | Provides the ability to disable two-factor authentication.
 | [markshust/magento2-module-simpledata](https://github.com/markshust/magento2-module-simpledata) | **MarkShust_SimpleData** | Simplifies calling Magento data structures.
 | [markshust/magento2-module-hierarchycomplexidcompatibility](https://github.com/markshust/magento2-module-hierarchycomplexidcompatibility) | **MarkShust_HierarchyComplexIdCompatibility** | Makes the hierarchy compatible with long URL identifiers containing subpaths.
-| [markshust/magento2-module-extrabodyclasses](https://github.com/markshust/magento2-module-extrabodyclasses) | **MarkShust_ExtraBodyClasses** | Makes the hierarchy compatible with long URL identifiers containing subpaths.
+| [markshust/magento2-module-extrabodyclasses](https://github.com/markshust/magento2-module-extrabodyclasses) | **MarkShust_ExtraBodyClasses** | Adds the website and store codes to the body class attribute.
 | [markshust/magento2-module-pagebuildersourcecode](https://github.com/markshust/magento2-module-pagebuildersourcecode) | **MarkShust_PageBuilderSourceCode** | Adds a Source Code button to the toolbar of the Page Builder WYSIWYG editor.
 | [markshust/magento2-module-removefavicon](https://github.com/markshust/magento2-module-removefavicon) | **MarkShust_RemoveFavicon** | Removes all favicons from the HTML head.
 | [markshust/magento2-module-twilio](https://github.com/markshust/magento2-module-twilio) | **MarkShust_Twilio** | Sends SMS messages in response to Magento events.
