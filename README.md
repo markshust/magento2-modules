@@ -29,27 +29,23 @@ The generosity of free software on the web has been a large contributing factor 
 | Module Repository | Name | Description
 | ---------- | ----------- | -----------
 | [markshust/magento2-module-disabletwofactorauth](https://github.com/markshust/magento2-module-disabletwofactorauth) | **MarkShust_DisableTwoFactorAuth** | Provides the ability to disable two-factor authentication.
-| [markshust/magento2-module-simpledata](https://github.com/markshust/magento2-module-simpledata) | **MarkShust_SimpleData** | Simplifies calling Magento data structures.
-| [markshust/magento2-module-hierarchycomplexidcompatibility](https://github.com/markshust/magento2-module-hierarchycomplexidcompatibility) | **MarkShust_HierarchyComplexIdCompatibility** | Makes the hierarchy compatible with long URL identifiers containing subpaths.
 | [markshust/magento2-module-extrabodyclasses](https://github.com/markshust/magento2-module-extrabodyclasses) | **MarkShust_ExtraBodyClasses** | Adds the website and store codes to the body class attribute.
+| [markshust/magento2-module-hierarchycomplexidcompatibility](https://github.com/markshust/magento2-module-hierarchycomplexidcompatibility) | **MarkShust_HierarchyComplexIdCompatibility** | Makes the hierarchy compatible with long URL identifiers containing subpaths.
+| [markshust/magento2-module-messages](https://github.com/markshust/magento2-module-messages) | **MarkShust_Messages** | Send success, notice, warning and error messages with `<html>`.
+| [markshust/magento2-module-ordergrid](https://github.com/markshust/magento2-module-ordergrid) | **MarkShust_OrderGrid** | Adds more details to the order grid in the admin.
 | [markshust/magento2-module-pagebuildersourcecode](https://github.com/markshust/magento2-module-pagebuildersourcecode) | **MarkShust_PageBuilderSourceCode** | Adds a Source Code button to the toolbar of the Page Builder WYSIWYG editor.
 | [markshust/magento2-module-removefavicon](https://github.com/markshust/magento2-module-removefavicon) | **MarkShust_RemoveFavicon** | Removes all favicons from the HTML head.
+| [markshust/magento2-module-simpledata](https://github.com/markshust/magento2-module-simpledata) | **MarkShust_SimpleData** | Simplifies calling Magento data structures.
 | [markshust/magento2-module-twilio](https://github.com/markshust/magento2-module-twilio) | **MarkShust_Twilio** | Sends SMS messages in response to Magento events.
-| [markshust/magento2-module-ordergrid](https://github.com/markshust/magento2-module-ordergrid) | **MarkShust_OrderGrid** | Adds more details to the order grid in the admin.
-| [markshust/magento2-module-messages](https://github.com/markshust/magento2-module-messages) | **MarkShust_Messages** | Send success, notice, warning and error messages with `<html>`.
 
 ## Sponsor
 
 If you enjoy & use my open-source Magento 2 modules, please consider [becoming a sponsor](https://github.com/sponsors/markshust).
 
-GitHub automatically matches contributions, so an $8 sponsorship for a burrito magically turns one burrito into two! 😁
-
-> 🌯 + 🧙‍♂️ = 🌯 🌯
-
-If you are learning or would like to learn Magento 2, I'm also a trainer of the platform. Check out [M.academy](https://m.academy) for a full list of training resources that I've created.
+I also teach Magento at [M.academy](https://m.academy). If you are looking to expand your Magento skills, definitely check it out!
 
 ## License
 
-Every open-source module that I release is done so under the MIT license:
+Every open-source module that I release has an MIT license:
 
 [MIT](https://opensource.org/licenses/MIT)
